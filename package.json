@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-plugin-alias-vscode",
+  "version": "1.0.0",
+  "description": "Gatsby plugin for setting alias and VSCode autoimport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrowUp-Haruno/gatsby-plugin-alias-vscode.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "alias",
+    "import",
+    "vscode",
+    "vscode-autoimport"
+  ],
+  "author": "GrowUp-Haruno",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/GrowUp-Haruno/gatsby-plugin-alias-vscode/issues"
+  },
+  "homepage": "https://github.com/GrowUp-Haruno/gatsby-plugin-alias-vscode#readme"
+}
